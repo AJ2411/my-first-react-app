@@ -1,0 +1,65 @@
+div#content{
+  background-color: rgb(34, 173, 34);
+  border-style: solid;
+  border-color: rgb(48, 48, 165);
+  border-width: .12em;
+  padding: 2em;
+  width: auto;
+
+}
+div.container{
+  background-color: white;
+  border-style: solid;
+  border-color: orangered;
+  border-width: .2em;
+  margin:2em;
+  padding: 2em;
+  
+}
+#header{
+  background-color: white;
+  border-style: solid;
+  border-color: orangered;
+  border-width: .4em;
+  margin: 2em;
+  
+}
+#header h2{
+  color:orangered;
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 3em;
+  text-align: center;
+}
+img{
+  float:right;
+  width: auto;
+  margin:1em;
+}
+h6{
+  font-style: italic;
+  font-weight: bold;
+  color:orangered;
+  font-size: 2em;
+  text-transform: capitalize;
+}
+p.author{
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size:1.2em;
+}
+a{
+  color:blue;
+  font-weight: bold;
+  font-size: 2em;
+}
+a:hover{
+  background-color: blue;
+  color:white;
+}
+p#s{
+  
+  
+  font-size:1.2em;
+}
+
